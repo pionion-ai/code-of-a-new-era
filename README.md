@@ -28,9 +28,10 @@ four ways an agent goes wrong and stops one cold with a real lock. The full tran
 
 ## Price
 
-One payment at the early-access price while the modules are still coming; it covers all four modules as they are
-released. The current price, what it includes and the refund terms are on https://codenoir.dev. Full refund within
-14 days, no reason needed.
+Two ways to buy, each one payment in USD: Module A on its own for $59 (each module sells alone as it is released),
+or all four modules for $99 while any module is still coming, which covers the modules released later; the price of
+all four becomes $189 when the last is out. Full refund within 14 days, no reason needed. Details and refund terms:
+https://codenoir.dev.
 
 ## Where it comes from
 
